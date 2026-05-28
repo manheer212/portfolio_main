@@ -6,34 +6,33 @@ const SERVICES = [
     number: '01',
     title: 'UI/UX Design',
     description:
-      'Designing clean, intuitive interfaces that prioritise user flow, hierarchy, and visual clarity — turning ideas into experiences people actually enjoy using.',
+      'Crafting intuitive, accessible, and modern user interfaces that focus on seamless user experiences, aesthetic clarity, and functional design.',
   },
   {
     number: '02',
-    title: 'Front-end Development',
+    title: 'Full-Stack Development',
     description:
-      'Building responsive, performant web apps with React, TypeScript, and Tailwind — pixel-perfect on every screen, deployed seamlessly on Vercel.',
+      'Building scalable, high-performance web and mobile applications using React, TypeScript, and Flutter, with robust backend integrations.',
   },
   {
     number: '03',
-    title: 'GenAI Integration',
+    title: 'GenAI & LLM Integration',
     description:
-      'Wiring large language models into real products via Gemini, Claude, and OpenAI APIs — from resume reviewers to AI tutors and beyond.',
+      'Leveraging advanced AI models to build intelligent, automated workflows and feature-rich applications that solve complex user problems.',
   },
   {
     number: '04',
-    title: 'Prompt Engineering & LLM Automation',
+    title: 'IoT & Hardware Prototyping',
     description:
-      'Crafting reliable prompts and automation flows that turn LLMs into production-grade tools for content, analysis, and decision support.',
+      'Developing innovative hardware-software solutions, utilizing Arduino and sensor technologies to build interactive, real-world smart devices.',
   },
   {
     number: '05',
-    title: 'Data Analysis & Visualization',
+    title: 'Content R&D & Digital Strategy',
     description:
-      'Exploring datasets with Python (Pandas, NumPy, Seaborn) and Power BI — turning raw numbers into clear insights and dashboards stakeholders can act on.',
+      'Researching and developing high-quality digital content strategies, blending technical expertise with creative production for maximum engagement.',
   },
 ];
-
 const ServicesSection = () => {
   return (
     <section

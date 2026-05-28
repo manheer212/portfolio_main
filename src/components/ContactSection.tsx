@@ -12,27 +12,27 @@ const CONTACT_METHODS: ContactMethod[] = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'goyalharsh642@gmail.com',
-    href: 'mailto:goyalharsh642@gmail.com',
+    value: 'manheerdhillon0150@gmail.com',
+    href: 'mailto:manheerdhillon0150@gmail.com',
   },
   {
     icon: MessageCircle,
     label: 'WhatsApp',
-    value: '+91 81682 94032',
+    value: '+91 8219349205',
     // wa.me requires digits only — no +, no spaces, no hyphens
-    href: 'https://wa.me/918168294032',
+    href: 'https://wa.me/918219349205',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'in/harsh-goyal-7900b2256',
-    href: 'https://www.linkedin.com/in/harsh-goyal-7900b2256/',
+    value: 'in/manheer-singh-dhillon-585b00326',
+    href: 'https://www.linkedin.com/in/manheer-singh-dhillon-585b00326/',
   },
   {
     icon: Github,
     label: 'GitHub',
-    value: '@harshgoyal27',
-    href: 'https://github.com/harshgoyal27',
+    value: '@manheer212',
+    href: 'https://github.com/manheer212',
   },
 ];
 

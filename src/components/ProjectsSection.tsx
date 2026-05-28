@@ -27,7 +27,7 @@ const PROJECTS: ProjectData[] = [
     number: '02',
     category: 'Web Development',
     name: 'Healthcare Website',
-    liveUrl: '#',
+    liveUrl: 'https://ratyafmc.ca',
     col1Image1: '/med-1.png',
     col1Image2: '/med-2.png',
     col2Image: '/med-3.png',
@@ -35,7 +35,7 @@ const PROJECTS: ProjectData[] = [
   {
     number: '03',
     category: 'Hardware & IoT',
-    name: 'Smart Dustbin & Pulse Monitor',
+    name: 'Smart Dustbin & Smart Home',
     liveUrl: '#',
     col1Image1: '/hw-1.png',
     col1Image2: '/hw-2.png',

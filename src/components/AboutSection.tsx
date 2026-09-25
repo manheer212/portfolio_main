@@ -3,7 +3,7 @@ import ContactButton from './ContactButton';
 import AnimatedText from './AnimatedText';
 
 const ABOUT_TEXT =
-  "I'm a highly motivated 4th-semester Computer Science student with a strong appetite for learning and exploring new fields. I'm adaptable and eager to take on new challenges, seeking opportunities to gain hands-on experience, develop practical skills, and contribute positively to a dynamic team.";
+  "I'm a highly motivated 5th-semester Computer Science student with a strong appetite for learning and exploring new fields. I'm adaptable and eager to take on new challenges, seeking opportunities to gain hands-on experience, develop practical skills, and contribute positively to a dynamic team.";
 
 const AboutSection = () => {
   return (
